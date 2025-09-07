@@ -3,8 +3,6 @@
 
 ![Dashboard Page 1](images/image1.png)
 
-🔗 [View interactive dashboard here on the Power BI Service](https://app.powerbi.com/)  
-
 ---
 
 ## 📝 Introduction  
