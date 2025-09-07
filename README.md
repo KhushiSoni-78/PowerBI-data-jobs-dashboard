@@ -1,7 +1,7 @@
 # PowerBI-data-jobs-dashboard
 # 📊 Data Jobs Dashboard with Power BI
 
-![Dashboard Page 1](images/image1.png)
+![Dashboard Page 1](image1.png)
 
 ---
 
@@ -36,7 +36,7 @@ Information about data-related jobs is often scattered and difficult to interpre
 
 ### Page 1: High-Level Market View  
 
-![Dashboard Page 1](images/image1.png)  
+![Dashboard Page 1](image1.png)  
 
 This is the mission control of the **Data Jobs Dashboard**.  
 It highlights key KPIs such as:  
@@ -51,7 +51,7 @@ At a glance, users can understand what’s happening in the **2024 data job mark
 
 ### Page 2: Job Title Drill-Through (Example: Data Analyst)  
 
-![Dashboard Page 2](images/image2.png)  
+![Dashboard Page 2](image2.png)  
 
 This page allows users to drill through into a specific job title.  
 For example, **Data Analyst** insights include:  
